@@ -11,4 +11,4 @@ function squareDigits(num){
   console.log(newNewDigits)
     return +newNewDigits
     
-  }
+  }squareDigits(9119)
