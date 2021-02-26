@@ -14,3 +14,4 @@ function fakeBin(arr){
     
    } return storage
      }
+     //comment look its me wolfie
