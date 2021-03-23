@@ -1,0 +1,5 @@
+function spEng(sentence){
+
+  let lowercaseAll = sentence.toLowerCase() //made sure every single letter in the string was lower case before i plugged in the methods needed to locate the word
+  return lowercaseAll.includes('english') ? true : false
+}spEng()
